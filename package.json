@@ -1,12 +1,12 @@
 {
   "name": "expressdemo",
   "version": "1.0.0",
-  "description": "",
+  "description": "demo of express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cale",
   "license": "ISC",
   "dependencies": {
     "ave": "^0.0.1-0",
